@@ -20,6 +20,8 @@ This is a solution to the data analytics dashboard challenge from Design Course.
 
 - Semantic HTML Markup
 - Mobile-first workflow
+- CSS Grid
+- CSS Flexbox
 
 ### What I learned
 
